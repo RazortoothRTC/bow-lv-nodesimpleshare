@@ -122,3 +122,10 @@ js.getterer("/img/[\\w\\.\\-]+", function(req, res) {
     return js.staticHandler("." + url.parse(req.url).pathname)(req, res);
 });
 
+//
+// Add a route for img dir
+//
+js.getterer("/187[\\w]+/[\\w\\.\\-]+", function(req, res) {
+    return js.staticHandler("." + url.parse(req.url).pathname)(req, res);
+});
+
