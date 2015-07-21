@@ -42,7 +42,7 @@ var UNAUTHORIZED_USER = "You are not authorized to access this document";
 var RESOURCE_PERMISSION_DENIED = "This resource is not available, permission denied";
 
 var js = new JS();
-js.CONFIG.DOCROOT = __dirname + '/static' 
+js.CONFIG.DOCROOT = __dirname + '/static'
 // js.CONFIG.DOCROOT = 'D:\home\site\wwwroot\static';
 js.CONFIG.HTTPWS_PORT = process.env.PORT || 8000;
 console.log(js.CONFIG);
@@ -112,5 +112,13 @@ js.getterer("/share/[\\w\\.\\-]+", function(req, res) {
 
 js.get("/up", function(req, res) {
   res.simpleJSON(200, { "starttime": starttime});
+});
+
+
+//
+// Add a route for img dir
+//
+js.getterer("/img/[\\w\\.\\-]+", function(req, res) {
+    return js.staticHandler("." + url.parse(req.url).pathname)(req, res);
 });
 
