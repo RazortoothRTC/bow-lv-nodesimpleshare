@@ -1,53 +1,5 @@
 {
 	"documents": {
-			"1870071390384.html": {
-				"description": "Beck's Page",
-				"1870071390384": {
-					"description": "Isuzu",
-					"expires": "-1",
-					"triggers": null
-				}
-			},
-			"1870071390385.html": {
-				"description": "Beck's Page",
-				"1870071390385": {
-					"description": "Isuzu",
-					"expires": "-1",
-					"triggers": null
-				}
-			},
-			"1870071390386.html": {
-				"description": "Beck's Page",
-				"1870071390386": {
-					"description": "Isuzu",
-					"expires": "-1",
-					"triggers": null
-				}
-			},
-			"1870071390387.html": {
-				"description": "Beck's Page",
-				"1870071390387": {
-					"description": "Isuzu",
-					"expires": "-1",
-					"triggers": null
-				}
-			},
-			"1870071390388.html": {
-				"description": "Simba's Page",
-				"1870071390388": {
-					"description": "Kordsmeier Dog Simba",
-					"expires": "-1",
-					"triggers": null
-				}
-			},
-			"1870071390389.html": {
-				"description": "Keiko's Page",
-				"1870071390389": {
-					"description": "Kordsmeier Dog Keiko",
-					"expires": "-1",
-					"triggers": null
-				}
-			},
 			"topsecret_truck.jpg": {
 				"description": "This is a top secret truck that drives very poorly",
 				"abcdefg": {
@@ -74,65 +26,57 @@
 					"triggers": null
 				}
 			},
-			"1870071390384": {
-				"description": "? Page",
-				"1870071390384": {
-					"description": "Dog",
+			"ENUS00001": {
+				"description": "Keiko Jones Page",
+				"ENUS00001": {
+					"description": "Kordsmeier Dog",
 					"expires": "-1",
 					"triggers": null
 				}
 			},
-			"1870071390385": {
+			"ENUS00002": {
+				"description": "Gordo Santos Page",
+				"ENUS00002": {
+					"description": "Kordsmeier Dog",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
+			"ENUS00003": {
+				"description": "Simba Lou Page",
+				"ENUS00003": {
+					"description": "Kordsmeier Dog",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
+			"ENUS00004": {
+				"description": "Nestle Page",
+				"ENUS00004": {
+					"description": "Gibb Dog",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
+			"JPJA0001": {
 				"description": "Page",
-				"1870071390385": {
+				"JPJA0001": {
 					"description": "Dog",
 					"expires": "-1",
 					"triggers": null
 				}
 			},
-			"1870071390386": {
-				"description": "Page",
-				"1870071390386": {
-					"description": "Dog",
-					"expires": "-1",
-					"triggers": null
-				}
-			},
-			"1870071390387": {
-				"description": "Page",
-				"1870071390387": {
-					"description": "Dog",
-					"expires": "-1",
-					"triggers": null
-				}
-			},
-			"1870071390388": {
-				"description": "Page",
-				"1870071390388": {
-					"description": "Dog",
-					"expires": "-1",
-					"triggers": null
-				}
-			},
-			"1870071390389": {
+			"JPJA0002": {
 				"description": "Keiko's Page",
-				"1870071390389": {
+				"JPJA0002": {
 					"description": "Kordsmeier Dog Keiko",
 					"expires": "-1",
 					"triggers": null
 				}
 			},
-			"1870071390390": {
+			"JPJA0004": {
 				"description": "Page",
-				"1870071390390": {
-					"description": "Dog",
-					"expires": "-1",
-					"triggers": null
-				}
-			},
-			"1870071390391": {
-				"description": "Page",
-				"1870071390391": {
+				"JPJA0004": {
 					"description": "Dog",
 					"expires": "-1",
 					"triggers": null
