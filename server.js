@@ -138,3 +138,9 @@ js.get("/up", function(req, res) {
 js.getterer("/img/[\\w\\.\\-]+", function(req, res) {
     return js.staticHandler("." + url.parse(req.url).pathname)(req, res);
 });
+
+//
+// Add a route for favicion.ico
+//
+js.get("/favicon.ico", js.staticHandler("favicon.ico"));
+js.get("/apple-touch-icon.png", js.staticHandler("apple-touch-icon.png"));
