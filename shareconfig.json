@@ -58,6 +58,22 @@
 					"triggers": null
 				}
 			},
+			"ENUS00005": {
+				"description": "new Page",
+				"ENUS00005": {
+					"description": "new Dog",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
+			"ENJA00001": {
+				"description": "Blogger",
+				"ENJA00001": {
+					"description": "Blogger Dog",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
 			"JPJA00001": {
 				"description": "Page",
 				"JPJA00001": {
