@@ -58,6 +58,14 @@
 					"triggers": null
 				}
 			},
+			"ENUS00006": {
+				"description": "new Page",
+				"ENUS00006": {
+					"description": "new Dog",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
 			"ENUS00005": {
 				"description": "new Page",
 				"ENUS00005": {
@@ -94,6 +102,30 @@
 				"description": "Keiko's Page",
 				"JPJA00002": {
 					"description": "Kordsmeier Dog Keiko",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
+			"JAHU00001": {
+				"description": "Page",
+				"JAHU00001": {
+					"description": "new",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
+			"JAHU00002": {
+				"description": "Page",
+				"JAHU00002": {
+					"description": "new",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
+			"JPJA00005": {
+				"description": "Page",
+				"JPJA00005": {
+					"description": "Dog",
 					"expires": "-1",
 					"triggers": null
 				}
