@@ -69,6 +69,18 @@ span.column6:before{
   position: absolute;
   right: 0.5em;
 }
+/*
+p{
+  text-align: center;
+}
+div.pic{
+  border-image: url("../img/framevintage.png") 15 round;
+  -webkit-border-image: url("../img/framevintage.png") 15 round;
+  -moz-border-image: url("../img/framevintage.png") 15 round;
+  -o-border-image: url("../img/framevintage.png") 15 round;
+  border-width: 15px 15px 15px 15px;
+}
+*/
 footer{
     text-align: center;
 }

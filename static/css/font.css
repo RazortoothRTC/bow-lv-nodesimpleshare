@@ -1,0 +1,42 @@
+.icon-girl:before{
+	content: url("../img/girl.png");
+}
+.icon-boy:before{
+	content: url("../img/boy.png");
+}
+.icon-capricorn:before{
+	content: url("../img/capricorn.png");
+}
+.icon-aquarius:before{
+	content: url("../img/aquarius.png");
+}
+.icon-pisces:before{
+	content: url("../img/pisces.png");
+}
+.icon-aries:before{
+	content: url("../img/aries.png");
+}
+.icon-taurus:before{
+	content: url("../img/taurus.png");
+}
+.icon-gemini:before{
+	content: url("../img/gemini.png");
+}
+.icon-cancer:before{
+	content: url("../img/cancer.png");
+}
+.icon-leo:before{
+	content: url("../img/leo.png");
+}
+.icon-virgo:before{
+	content: url("../img/virgo.png");
+}
+.icon-libra:before{
+	content: url("../img/libra.png");
+}
+.icon-scorpio:before{
+	content: url("../img/scorpio.png");
+}
+.icon-sagittarius:before{
+	content: url("../img/sagittarius.png");
+}
