@@ -35,7 +35,7 @@ span.column2{
 }
 span.column3{
   float: left;
-  width: 6.5em;
+  width: 7.5em;
   position: relative;
   font-weight: bold;
 }
@@ -47,7 +47,8 @@ span.column4{
 }
 span.column5{
   float: left;
-  width: 4.5em;
+  width: 40%;
+  text-align: right;
   position: relative;
   font-weight: bold;
 }
@@ -55,6 +56,11 @@ span.column6{
   float: left;
   position: relative;
   font-weight: bold;
+}
+span.column7{
+  margin-left: 40%;
+  text-align: right;
+  position: relative;
 }
 span.space{
   padding-left: 1.5em;
@@ -69,21 +75,17 @@ span.column6:before{
   position: absolute;
   right: 0.5em;
 }
-/*
-p{
-  text-align: center;
-}
-div.pic{
-  border-image: url("../img/framevintage.png") 15 round;
-  -webkit-border-image: url("../img/framevintage.png") 15 round;
-  -moz-border-image: url("../img/framevintage.png") 15 round;
-  -o-border-image: url("../img/framevintage.png") 15 round;
-  border-width: 15px 15px 15px 15px;
-}
-*/
 footer{
     text-align: center;
 }
 footer img{
     vertical-align: middle;
+}
+
+
+p, h3{
+  text-align: center;
+}
+.container div.sixteen{
+  margin-bottom: 10px;
 }
