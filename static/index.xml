@@ -1,83 +1,146 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>JYANE Doggie Pages</title>
+    <link>http://bow.lv/</link>
+    <description>Recent content on JYANE Doggie Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2015 11:53:29 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2015 20:53:19 -0700</lastBuildDate>
+    <atom:link href="http://bow.lv/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>1870071390391</title>
-      <link>http://localhost:1313/1870071390391/</link>
+      <title>ENUS90001</title>
+      <link>http://bow.lv/ENUS90001/</link>
+      <pubDate>Wed, 09 Sep 2015 20:53:19 -0700</pubDate>
+      
+      <guid>http://bow.lv/ENUS90001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USHU00002</title>
+      <link>http://bow.lv/USHU00002/</link>
+      <pubDate>Sun, 06 Sep 2015 14:19:18 -0700</pubDate>
+      
+      <guid>http://bow.lv/USHU00002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENUS00006</title>
+      <link>http://bow.lv/ENUS00006/</link>
+      <pubDate>Sun, 06 Sep 2015 01:46:53 -0700</pubDate>
+      
+      <guid>http://bow.lv/ENUS00006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAHU00002</title>
+      <link>http://bow.lv/JAHU00002/</link>
+      <pubDate>Sun, 06 Sep 2015 01:26:06 -0700</pubDate>
+      
+      <guid>http://bow.lv/JAHU00002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAHU00001</title>
+      <link>http://bow.lv/JAHU00001/</link>
+      <pubDate>Sun, 06 Sep 2015 01:16:06 -0700</pubDate>
+      
+      <guid>http://bow.lv/JAHU00001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JPJA00005</title>
+      <link>http://bow.lv/JPJA00000/</link>
+      <pubDate>Sun, 06 Sep 2015 00:52:24 -0700</pubDate>
+      
+      <guid>http://bow.lv/JPJA00000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JPJA00005</title>
+      <link>http://bow.lv/JPJA00005/</link>
+      <pubDate>Sun, 06 Sep 2015 00:52:24 -0700</pubDate>
+      
+      <guid>http://bow.lv/JPJA00005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENUS00005</title>
+      <link>http://bow.lv/ENUS00005/</link>
+      <pubDate>Sat, 01 Aug 2015 22:59:01 -0700</pubDate>
+      
+      <guid>http://bow.lv/ENUS00005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENJA00001</title>
+      <link>http://bow.lv/ENJA00001/</link>
+      <pubDate>Sat, 01 Aug 2015 22:58:48 -0700</pubDate>
+      
+      <guid>http://bow.lv/ENJA00001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENUS00004</title>
+      <link>http://bow.lv/ENUS00004/</link>
       <pubDate>Fri, 15 May 2015 11:53:29 -0700</pubDate>
       
-      <guid>http://localhost:1313/1870071390391/</guid>
+      <guid>http://bow.lv/ENUS00004/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>1870071390390</title>
-      <link>http://localhost:1313/1870071390390/</link>
+      <title>ENUS00002</title>
+      <link>http://bow.lv/ENUS00002/</link>
       <pubDate>Fri, 15 May 2015 11:49:43 -0700</pubDate>
       
-      <guid>http://localhost:1313/1870071390390/</guid>
+      <guid>http://bow.lv/ENUS00002/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>1870071390389</title>
-      <link>http://localhost:1313/1870071390389/</link>
+      <title>ENUS00001</title>
+      <link>http://bow.lv/ENUS00001/</link>
       <pubDate>Fri, 15 May 2015 10:58:50 -0700</pubDate>
       
-      <guid>http://localhost:1313/1870071390389/</guid>
+      <guid>http://bow.lv/ENUS00001/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>1870071390388</title>
-      <link>http://localhost:1313/1870071390388/</link>
+      <title>ENUS00003</title>
+      <link>http://bow.lv/ENUS00003/</link>
       <pubDate>Fri, 15 May 2015 10:58:38 -0700</pubDate>
       
-      <guid>http://localhost:1313/1870071390388/</guid>
+      <guid>http://bow.lv/ENUS00003/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>1870071390387</title>
-      <link>http://localhost:1313/1870071390387/</link>
+      <title>JPJA00001</title>
+      <link>http://bow.lv/JPJA00001/</link>
       <pubDate>Fri, 15 May 2015 10:51:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/1870071390387/</guid>
+      <guid>http://bow.lv/JPJA00001/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>1870071390386</title>
-      <link>http://localhost:1313/1870071390386/</link>
+      <title>JPJA00003</title>
+      <link>http://bow.lv/JPJA00003/</link>
       <pubDate>Fri, 15 May 2015 10:44:29 -0700</pubDate>
       
-      <guid>http://localhost:1313/1870071390386/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1870071390385</title>
-      <link>http://localhost:1313/1870071390385/</link>
-      <pubDate>Fri, 15 May 2015 09:30:04 -0700</pubDate>
-      
-      <guid>http://localhost:1313/1870071390385/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1870071390384</title>
-      <link>http://localhost:1313/1870071390384/</link>
-      <pubDate>Thu, 14 May 2015 10:16:53 -0700</pubDate>
-      
-      <guid>http://localhost:1313/1870071390384/</guid>
+      <guid>http://bow.lv/JPJA00003/</guid>
       <description></description>
     </item>
     
