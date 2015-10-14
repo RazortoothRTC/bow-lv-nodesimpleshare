@@ -2,12 +2,12 @@
     "name": "nodesimpleshare",
     "description": "A Simple way to share static files via HTTP and provide some also simple ACL using api keys",
     "author": "David J. Kordsmeier <dkords@gmail.com>",
-    "contributors": [ "Simba",
-        "Keiko",
+    "contributors": [ "Simba - RIP",
+        "Keiko - RIP",
         "Fish - RIP",
         "Benny - RIP",
         "Pikachu"],
-    "version": "9.3.3",
+    "version": "9.3.4",
     "private": false,
     "scripts": {
       "start": "node server.js"
