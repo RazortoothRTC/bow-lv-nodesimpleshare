@@ -153,6 +153,38 @@
 					"expires": "-1",
 					"triggers": null
 				}
+			},
+			"JPJA00007": {
+				"description": "Page",
+				"JPJA00007": {
+					"description": "Dog",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
+			"JPJA00008": {
+				"description": "Page",
+				"JPJA00008": {
+					"description": "Dog",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
+			"JPJA00009": {
+				"description": "Page",
+				"JPJA00009": {
+					"description": "Dog",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
+			"JPJA00006": {
+				"description": "Page",
+				"JPJA00006": {
+					"description": "Dog",
+					"expires": "-1",
+					"triggers": null
+				}
 			}
     },
 	"schema": 2,
