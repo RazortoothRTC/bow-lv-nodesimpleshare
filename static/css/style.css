@@ -62,6 +62,11 @@ span.column7{
   text-align: right;
   position: relative;
 }
+span.column8{
+  float: left;
+  position: relative;
+  font-weight: bold;
+}
 span.space{
   padding-left: 1.5em;
 }
