@@ -130,6 +130,14 @@
 					"triggers": null
 				}
 			},
+			"USSA00001": {
+				"description": "Arashi Page",
+				"USSA00001": {
+					"description": "Arashi Human",
+					"expires": "-1",
+					"triggers": null
+				}
+			},
 			"JPJA00005": {
 				"description": "Page",
 				"JPJA00005": {
