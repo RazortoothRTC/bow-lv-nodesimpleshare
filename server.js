@@ -57,7 +57,10 @@ js.getterer("/share/[\\w\\.\\-]+", function(req, res) {
   console.log("aquery = " + JSON.stringify(aquery));
   var apikey = aquery.apikey;
 
-
+  if (apikey === undefined) {
+    apikey = aquery.apIkey;
+  }
+  
   // Is there an api key?
   if (apikey === undefined || apikey === '') {
     console.log('Undefined API Key');
